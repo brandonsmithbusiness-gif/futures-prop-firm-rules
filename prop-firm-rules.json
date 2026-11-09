@@ -1,6 +1,6 @@
 {
   "name": "Futures prop firm rules",
-  "asOf": "2026-09-28",
+  "asOf": "2026-10-01",
   "source": "https://tradeharbor.co/prop-firm-rules",
   "license": "CC-BY-4.0",
   "note": "Every number was read from the firm's own website or help center on asOf. Firms change rules often: confirm against the firm's current page.",
@@ -7418,6 +7418,7 @@
           "stage": "direct",
           "source": "https://helpfutures.fundednext.com/en/articles/16847874",
           "rules": [
+            "FundedNext no longer sells this plan; it stays here for accounts bought earlier.",
             "Consistency compares your best day ever with the current cycle's profit."
           ],
           "accounts": [
@@ -7458,12 +7459,7 @@
                   }
                 ]
               },
-              "price": {
-                "billing": "once",
-                "eval": 149.99,
-                "reset": null,
-                "activation": 0
-              },
+              "price": null,
               "activationFee": 0
             }
           ]

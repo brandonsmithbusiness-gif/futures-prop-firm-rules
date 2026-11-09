@@ -4,7 +4,7 @@ Account rules for 14 futures prop firms (313 account sizes) in one JSON file:
 profit targets, drawdown amounts and type, where the trailing drawdown stops, daily loss limits,
 consistency rules, contract limits, payout requirements and list prices.
 
-Last updated from each firm's own website: **2026-09-28**. The same data, with calculators for each plan, is at [tradeharbor.co/prop-firm-rules](https://tradeharbor.co/prop-firm-rules).
+Last updated from each firm's own website: **2026-10-01**. The same data, with calculators for each plan, is at [tradeharbor.co/prop-firm-rules](https://tradeharbor.co/prop-firm-rules).
 
 Firms change their rules often. Always confirm against the firm's current page (linked for every
 plan below) before you rely on a number. Not affiliated with any firm listed. This is reference
